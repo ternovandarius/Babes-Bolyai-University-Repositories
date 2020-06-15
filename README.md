@@ -18,3 +18,9 @@
 * [Logical and Functional Programming](https://github.com/ternovandarius/Logical-and-Functional-Programming)
 * [Computer Networks](https://github.com/ternovandarius/Computer-Networks)
 * [Databases](https://github.com/ternovandarius/Databases)
+
+### Semester 2
+* [Artificial Intelligence](https://github.com/ternovandarius/Artificial-Intelligence)
+* [Web Programming](https://github.com/ternovandarius/Web-Programming)
+* [Systems for Design and Implementation](https://github.com/ternovandarius/Systems-for-Design-and-Implementation)
+* [Database Management Systems](https://github.com/ternovandarius/Database-Management-Systems)
